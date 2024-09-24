@@ -1,0 +1,37 @@
+.inteira {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+.ladoE  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 9%;
+    width: 50%;
+}
+
+.ladoD {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 50%;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 7%;
+    text-align: center;
+    font-size: 21px;
+}
+
+.logo {
+    width: 45%;
+}
+
+.img1 {
+    width: 70%;
+}
